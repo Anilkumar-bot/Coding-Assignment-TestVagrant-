@@ -1,0 +1,5 @@
+These test cases include collecting the most recently played songs for various users, adding songs for many users at once,
+adding songs for the same user multiple times, exceeding capacity and removing the least recently played song.
+The 'assert' keyword is used to make sure the expected and actual results match.
+
+Run these tests to verify the RecentlyPlayedStore implementation's logic.
